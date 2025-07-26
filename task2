@@ -1,0 +1,7 @@
+import math
+
+result = float(input("Enter a number: "))
+
+print(math.sqrt(result))
+print(math.log(result))
+print(math.sin(result))
