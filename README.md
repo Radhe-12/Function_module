@@ -29,6 +29,8 @@ Factorial of 5 is: 120
 **Sample Output (for input 25):**
 
 Square root: 5.0
+
 Natural logarithm: 3.2188758248682006
+
 Sine (in radians): -0.13235175009777303
 
