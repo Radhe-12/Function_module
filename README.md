@@ -11,3 +11,5 @@ This repository contains Python scripts for **Module 4: Functions & Modules**.
 - Prints the output.
 
 **Sample Output:**
+
+Factorial of 5 is: 120
